@@ -1,3 +1,9 @@
+/* 222014771 ISHIMWE lucie Karlise
+ * 222005571 TUYISHIME Ephron 
+ * 222002227 MUGISHA Elvis
+*/
+
+
 #include<iostream>
 using namespace std;
 int calculateRental(int, int, int);
